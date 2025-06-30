@@ -1,3 +1,16 @@
+Cisco 2911 Router Lab
+
+ Features
+- ✅ Multi-VLAN Configuration
+- 🔒 SSH Security
+- 🛠️ Packet Tracer Ready
+
+ How to Use
+1. Download [PDF Guide](Cisco 2911 Router.pdf)
+2. Open in Cisco Packet Tracer
+
+ 
+ 
  Cisco 2911 Router Configuration Project
 
 Project Overview
